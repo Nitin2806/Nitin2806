@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ML and looking help with ML
+- 🌱 I’m currently learning ML and looking help with it
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Nitin2806}.${https://github.com/Nitin2806/Nitin2806.git})
 
