@@ -13,23 +13,12 @@
   <a href="https://instagram.com/nitin__28._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitin__28._" height="30" width="40" /></a>
   </p>
 
-<<<<<<< HEAD
 #### Profile Visits
-=======
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning ML and looking help with it
->>>>>>> 5926e6708fa804bae9bae3bda905af31ee26a175
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Nitin2806}_color=green&right_color=red.${https://github.com/Nitin2806/Nitin2806.git})
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitin2806&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<a href="https://github.com/AsmaIbrahimButt/github-readme-stats"><img alt="Asma Ibrahim Butt Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaIbrahimButt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Nitin2806/github-readme-stats"><img alt="Nitin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin2806&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<a href="https://github.com/AsmaIbrahimButt/github-readme-activity-graph"><img alt="Asma Ibrahim Butt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AsmaIbrahimButt&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Nitin2806/github-readme-activity-graph"><img alt="Nitin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nitin2806&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
