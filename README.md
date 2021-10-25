@@ -17,8 +17,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Nitin2806}.${https://github.com/Nitin2806/Nitin2806.git})
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitin2806&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitin2806&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 
-<a href="https://github.com/Nitin2806/github-readme-stats"><img alt="Nitin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin2806&langs_count=8&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Nitin2806/github-readme-stats"><img alt="Nitin Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin2806&langs_count=8&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117 /></a>
 
 <a href="https://github.com/Nitin2806/github-readme-activity-graph"><img alt="Nitin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nitin2806&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
