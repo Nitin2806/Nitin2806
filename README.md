@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ML
-- 🔭 I’m currently working at @React.js
 - 📫 You can reach me: mnitin2311@gmail.com.
 
   <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
