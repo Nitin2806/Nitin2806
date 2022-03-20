@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning <b>ML</b>
 - 💬 Ask me about **Web Development**
 - 📫 You can reach me: mnitin2311@gmail.com.
-- 
-- You can Watch my Profile: nitin2806.github.io
-
 
   <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
