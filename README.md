@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nitin](https://nitin2806.github.io/)!
 
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning <b>ML</b>
+- 💬 Ask me about **Web Development**
 - 📫 You can reach me: mnitin2311@gmail.com.
+- 
 - You can Watch my Profile: nitin2806.github.io
 
 
